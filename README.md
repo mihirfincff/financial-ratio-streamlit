@@ -1,2 +1,2 @@
-# financial-ratio-streamlit
+# ratio-streamlit
 A financial spreading tool
